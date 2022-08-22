@@ -21,10 +21,16 @@ The columns EIN and NAME are neither targets nor features and have been removed 
 
 ### How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
+![Screen Shot 2022-08-22 at 3 49 41 PM](https://user-images.githubusercontent.com/100393032/186032264-018df440-cdb8-4b2e-b9b6-c61eb598c632.png)
+
+I chose this set based on recommendations from fellow data analyst. Running these layers also seemed to give me a better answer.
 ### Were you able to achieve the target model performance?
 
 I was not able to acheive the target model performance
 
 ### What steps did you take to try and increase model performance?
 
+In order to increase the model perforamnce I attempted to reduce the layers and nuerons while focusing on the ASK_AMT. I was hopeful that the decreased amount of data would deliver a closer mark to the target but I was unsuccesful.
 ## Summary
+
+In summary, I was unable to succesfully reach the target performance put forth by the company. This analysis would cover a great majority of finding the applicants that would be best suited to to get funding to "Alphabet Soup."
